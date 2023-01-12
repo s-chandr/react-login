@@ -2,7 +2,7 @@ import styled from "styled-components";
 import Button from "./components/Button";
 import Icon from "./components/Icon";
 import Input from "./components/Input";
-import PasswordInput from "./Folder/PasswordInput";
+import PasswordInput from "./password/PasswordInput";
 
 import { FaFacebookF, FaInstagram, FaTwitter , FaGoogle } from "react-icons/fa";
 import { useState } from "react";
