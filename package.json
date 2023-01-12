@@ -1,6 +1,6 @@
 {
   "name": "login-form",
-  "homepage": "https://www.nodesandedges.com/react/loginForm/",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
